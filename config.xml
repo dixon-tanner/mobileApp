@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns 	= "http://www.w3.org/ns/widgets"
+    xmlns:gap 	= "http://phonegap.com/ns/1.0"
+    id        	= "com.phonegap.example"
+	versionCode = "10"
+    version   	= "1.0.0">
+
+<name>Mobile Web Application</name>
+
+<description>
+A simple PhoneGap Build application.
+</description>
+
+<!--  Android  -->
+<icon src="icons/android/drawable-ldpi/ic_launcher.png" gap:platform="android" gap:density="ldpi" />
+<icon src="icons/android/drawable-mdpi/ic_launcher.png" gap:platform="android" gap:density="mdpi" />
+<icon src="icons/android/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:density="hdpi" />
+<icon src="icons/android/drawable-xhdpi/ic_launcher.png" gap:platform="android" gap:density="xhdpi" />
+
+<!--  iOS  -->
+<icon src="icons/ios/icon.png" gap:platform="ios" width="57" height="57" />
+<icon src="icons/ios/icon-72.png" gap:platform="ios" width="72" height="72" />
+<icon src="icons/ios/icon@2x.png" gap:platform="ios" width="114" height="114" />
+<!-- retina iPad support: PhoneGap 2.5.0+ only -->
+<icon src="icons/ios/icon-72@2x.png" gap:platform="ios" width="144" height="144" />
+
+
+
+
+
+
+<author href="https://example.com" email="explorersucks@chromealltheway.com">
+Tanner Dixon
+</author>
+
+</widget>

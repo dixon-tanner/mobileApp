@@ -62,6 +62,9 @@ aside.left{
 	line-height:3em;
 	background-color:white;
 }
+aside{
+	min-width:11em;
+}
 
 nav{
 background-color:white;
