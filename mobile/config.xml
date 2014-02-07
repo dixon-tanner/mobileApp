@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns = "http://www.w3.org/ns/widgets"
-    xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "dixon.tanner.mobileApp"
-    version   = "1.0.0">
+<widget xmlns 	= "http://www.w3.org/ns/widgets"
+    xmlns:gap 	= "http://phonegap.com/ns/1.0"
+    id        	= "dixon.tanner.mobileApp"
+	versionCode = "10"
+    version   	= "1.0.0">
 
 <name>Mobile Application</name>
 
@@ -10,7 +11,7 @@
 A simple PhoneGap Build application.
 </description>
 
-<author href="https://example.com" email="you@example.com">
+<author href="https://example.com" email="explorersucks@chromealltheway.com">
 Tanner Dixon
 </author>
 
