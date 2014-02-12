@@ -39,10 +39,10 @@ A simple PhoneGap Build application.
 <!--  iOS  -->
 
 <!--  Android  -->
-<gap:splash src="splash/android/drawable-ldpi/ic_launcher.png" gap:platform="android" gap:density="ldpi" />
-<gap:splash src="splash/android/drawable-mdpi/ic_launcher.png" gap:platform="android" gap:density="mdpi" />
-<gap:splash src="splash/android/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:density="hdpi" />
-<gap:splash src="splash/android/drawable-xhdpi/ic_launcher.png" gap:platform="android" gap:density="xhdpi" />
+<gap:splash src="splash/android/drawable-ldpi/portrait.png" gap:platform="android" gap:density="ldpi" />
+<gap:splash src="splash/android/drawable-mdpi/portrait.png" gap:platform="android" gap:density="mdpi" />
+<gap:splash src="splash/android/drawable-hdpi/portrait.png" gap:platform="android" gap:density="hdpi" />
+<gap:splash src="splash/android/drawable-xhdpi/portrait.png" gap:platform="android" gap:density="xhdpi" />
 
 <!--  Windows  -->
 
