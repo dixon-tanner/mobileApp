@@ -12,9 +12,12 @@ font-size:medium;
 font-family:"Times New Roman", Times, serif;
 }
 
-div{
+.title{
+
+margin-top:100px;
 	
 }
+
 button{
 	font-size:1em;
 	padding:10px;
