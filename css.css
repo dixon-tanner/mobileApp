@@ -1,7 +1,5 @@
 @charset "utf-8";
 /* CSS Document */
-
-
 body{
 color: #07F;
 background-image:url(images/twin_falls_logo_2.jpg);
@@ -11,7 +9,6 @@ background-size:auto;
 font-size:medium;
 font-family:"Times New Roman", Times, serif;
 }
-
 .title{
 
 margin-top:100px;
@@ -21,101 +18,24 @@ margin-top:100px;
 button{
 	font-size:1em;
 	padding:10px;
-	width:30%;
+	width:90%;
 	
 }
-
-li{
-	font-size:xx-small;	
-}
-a{
-text-decoration:none;	
-font-size:medium;
-font-family:"Times New Roman", Times, serif;
-font-style:italic;
-font-weight:bold;
-color:#0BF;
-	
-}
-
-a:hover{
-	text-decoration:underline;	
-	color: rgb(26,30,63);
-	background-color:white;
-}
-
-
 h1{
 
 text-align:center;
 
 
 }
-
-
-aside.right{
-	margin-left:auto;
-	margin-right:20px;
-	float:right;
-	width:15%;
-	border-radius:25px;
-	line-height:3em;
-	background-color:white;
-}
-
-aside.left{
-	margin-right:auto;
-	margin-left:20px;
-	float:left;
-	width:30%;
-	border-radius:25px;
-	line-height:3em;
-	background-color:white;
-}
-aside{
-	min-width:11em;
-}
-
-nav{
-background-color:white;
-color: rgb(26,30,63);
-font-weight:bold;
-font-size:medium;
-text-align:center;	
-margin-left:auto;
-margin-right:auto;
-border-radius:5px;
-width:95%;
-}
 .center{
 text-align:center;	
 }
-
-.unused{
-
-color:white;
-
-}
-footer{
-	padding-top: 4em;
-	padding-left:1em;
-	margin:auto;
-	width:95%;
-}
-
 table{
 	font-size:x-large;
 	border-style:solid;
 	border-width:thick;
 	border-color:white;
 	margin:auto;
-}
-table.month{
-
-border-width:medium;
-font-weight:bolder;
-font-size:36px;
-
 }
 table th{
 	padding-left:2em;
@@ -127,22 +47,13 @@ td{
 	border-style:dotted;
 	border-width:thin;
 }
-
 td.over{
 background-color:white;
 color:  rgb(26,30,63);
 }
-img{
-	border-radius:20px;
-
-}
 .right{
 	float:right;
 	margin:30px;
-}
-div.album{
-	float:right;
-	width:70%;
 }
 .left{
 	float:left;
