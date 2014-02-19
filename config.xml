@@ -47,8 +47,7 @@ A simple PhoneGap Build application.
 <gap:splash src="splash/android/drawable-mdpi/landscape.png" gap:platform="android" gap:density="mdpi" />
 <gap:splash src="splash/android/drawable-hdpi/landscape.png" gap:platform="android" gap:density="hdpi" />
 <gap:splash src="splash/android/drawable-xhdpi/landscape.png" gap:platform="android" gap:density="xhdpi" />
-
-<!--  Windows  -->
+-->
 
 
 
